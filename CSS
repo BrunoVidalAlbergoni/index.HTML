@@ -1,0 +1,31 @@
+body {font-size: 17px;
+	background: #151515 }
+
+#banner {width:100%;}
+
+h1{color: whitesmoke;
+	font-size: 30px;
+	padding-left: 20px;}
+
+.titulo-centralizado{font-size: 35px;
+					color: whitesmoke;
+					text-align:center;}
+
+p {text-align: center;
+	color: whitesmoke;
+	font-size: 20px}
+
+em strong {color: dodgerblue;}
+
+ul {font-size: 22px;
+	color: whitesmoke;
+	font-style:italic;
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;}
+
+.beneficios{background: #202020;}
+
+.imagembeneficios {width: 50%;}
+
